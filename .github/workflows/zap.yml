@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: read            # リポジトリの内容を読み取る
+  contents: read            # リポジトリの内容を読み取
   security-events: write    # セキュリティスキャン結果の記録
   issues: write             # Issuesへの追加
 
